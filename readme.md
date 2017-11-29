@@ -4,7 +4,7 @@
 ```
 
 ```
--index.php
+-- index.php
 require_once "vendor/autoload.php";
 
 $hello = new Xiaoliu\CeShi\ceshi();
