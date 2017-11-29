@@ -4,11 +4,15 @@
 ```
 
 ```
+-index.php
 require_once "vendor/autoload.php";
 
 $hello = new Xiaoliu\CeShi\ceshi();
 
 ```
-### 输出结果
-construct
+### 结果
+```
+$ php index.php
+   construct
+```
 
