@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-            "psr-4": { "Xiaoliu\\Ceshi\\": "src" }
+            "psr-4": { "Xiaoliu\\CeShi\\": "src" }
     },
     "require": {}
 }
