@@ -1,5 +1,8 @@
-### $ touch index.php
-### $ composer require xiaoliu/test
+```
+ $ touch index.php
+ $ composer require xiaoliu/test
+```
+
 ```
 require_once "vendor/autoload.php";
 
