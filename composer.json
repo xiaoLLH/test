@@ -8,5 +8,8 @@
             "email": "490185870@qq.com"
         }
     ],
+    "autoload": {
+            "psr-4": { "Xiaoliu\\Ceshi\\": "src" }
+    },
     "require": {}
 }
