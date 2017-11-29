@@ -1,0 +1,12 @@
+{
+    "name": "xiaoliu/test",
+    "description": "xiaoliu - test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liulonghai",
+            "email": "490185870@qq.com"
+        }
+    ],
+    "require": {}
+}
